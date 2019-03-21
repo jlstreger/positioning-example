@@ -1,0 +1,45 @@
+body{
+    background-color:#1f1f1f;
+    color: #bfbfbf;
+    height: 2000px;
+}
+
+h1{
+    font-weight: normal;
+}
+
+em{
+    color: #e07a05;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.blueBox{
+    background: #627da8;
+    /*position: inherit;
+    bottom: 10px;*/
+    float: right;
+}
+
+.greenBox{
+    background: #5b8054;
+    float: right;
+}
+
+h1{
+    clear:right;
+}
+
+.container{
+    background: rgba(0,0,0,.4);
+    /*width: 200px;
+    height: 200px;
+    position: relative;
+    top: 200px;*/
+  
+}
